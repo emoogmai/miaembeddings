@@ -1,0 +1,10 @@
+miaemb_checkpoint_frequency: null
+miaemb_data_dir: data/
+miaemb_epochs: 5
+miaemb_learning_rate: 0.025
+miaemb_model_dir: embeddings/MiaSpanishCorpora
+miaemb_shuffle: true
+miaemb_train_batch_size: 96
+miaemb_train_steps: null
+miaemb_val_steps: null
+miaemb_valid_batch_size: 96
