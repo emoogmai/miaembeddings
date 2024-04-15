@@ -1,6 +1,6 @@
 # MIA Embeddings experiment with PyTorch
 
-Implementation of word2vec - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781). An explanation of code is in my post - [Embeddings en el Modelo de Lenguaje MIA](url).
+Implementation of word2vec - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781). An explanation of code is in my post - [Embeddings en el Modelo de Lenguaje MIA](https://edwinmoo.substack.com/p/embeddings-en-el-modelo-de-lenguaje?r=233vmr).
 
 ## MIA Embeddings experiment details
 
